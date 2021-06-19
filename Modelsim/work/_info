@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11e vcom 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/21.1
+Esequencerecognizer
+Z0 w1624095923
+Z1 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+!i122 9
+Z5 dC:/Users/rafus/Documents/Progetti microelettronica digitale/SequenceRecogniser/Modelsim
+Z6 8C:/Users/rafus/Documents/Progetti microelettronica digitale/SequenceRecogniser/Src/SequenceRecognizerFSM.vhd
+Z7 FC:/Users/rafus/Documents/Progetti microelettronica digitale/SequenceRecogniser/Src/SequenceRecognizerFSM.vhd
+l0
+L12 1
+Vb7E>[1M4fk[goU[caEUdk2
+!s100 hY[_OBEYFPf[_[S:m1oE=0
+Z8 OV;C;2021.1;73
+33
+Z9 !s110 1624095931
+!i10b 1
+Z10 !s108 1624095931.000000
+Z11 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/rafus/Documents/Progetti microelettronica digitale/SequenceRecogniser/Src/SequenceRecognizerFSM.vhd|
+Z12 !s107 C:/Users/rafus/Documents/Progetti microelettronica digitale/SequenceRecogniser/Src/SequenceRecognizerFSM.vhd|
+!i113 1
+Z13 o-work work -2008 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Amoore
+R1
+R2
+R3
+R4
+DEx4 work 18 sequencerecognizer 0 22 b7E>[1M4fk[goU[caEUdk2
+!i122 9
+l39
+L28 134
+V6P9GdTHDFXX=HA[=5>ZZg1
+!s100 _a;f`18>J0`XhQGezUA=>2
+R8
+33
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Esequencerecognizer_tb
+R0
+Z15 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R2
+R1
+R4
+R3
+!i122 10
+R5
+Z16 8C:/Users/rafus/Documents/Progetti microelettronica digitale/SequenceRecogniser/Tb/SequenceRecognizer_tb.vhd
+Z17 FC:/Users/rafus/Documents/Progetti microelettronica digitale/SequenceRecogniser/Tb/SequenceRecognizer_tb.vhd
+l0
+L6 1
+V6ZJQ1j2O2dMPffjlazA<`2
+!s100 B[5Qe4@<]:HnYEUYLlFbg2
+R8
+33
+Z18 !s110 1624095932
+!i10b 1
+Z19 !s108 1624095932.000000
+Z20 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/rafus/Documents/Progetti microelettronica digitale/SequenceRecogniser/Tb/SequenceRecognizer_tb.vhd|
+Z21 !s107 C:/Users/rafus/Documents/Progetti microelettronica digitale/SequenceRecogniser/Tb/SequenceRecognizer_tb.vhd|
+!i113 1
+R13
+R14
+Abeh
+R15
+R2
+R1
+R4
+R3
+Z22 DEx4 work 21 sequencerecognizer_tb 0 22 6ZJQ1j2O2dMPffjlazA<`2
+!i122 10
+l36
+L9 101
+VlF1dkflDTA7^;h?GILhW71
+!s100 gGH4gPaIe;Dc[3mIO86DQ0
+R8
+33
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R13
+R14

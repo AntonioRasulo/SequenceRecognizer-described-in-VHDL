@@ -1,0 +1,54 @@
+# Compile of SequenceRecognizer_tb.vhd was successful.
+vsim work.sequencerecognizer_tb
+# vsim work.sequencerecognizer_tb 
+# Start time: 11:34:26 on Jun 19,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.sequencerecognizer_tb(beh)
+# Loading work.sequencerecognizer(moore)
+add wave -position insertpoint  \
+sim:/sequencerecognizer_tb/num_in_ext \
+sim:/sequencerecognizer_tb/warning_ext \
+sim:/sequencerecognizer_tb/unlock_ext \
+sim:/sequencerecognizer_tb/first_ext \
+sim:/sequencerecognizer_tb/reset_ext \
+sim:/sequencerecognizer_tb/clk_ext
+run -all
+quit -sim
+# ** Error: Acsongt.
+# 8
+#        Unable to replace existing ini file (C:/Users/rafus/Documents/Progetti microelettronica digitale/SequenceRecogniser/Modelsim/SequenceRecognizer.mpf).  File can not be renamed.
+# ** Error: Acsongt.
+# 
+#        Unable to replace existing ini file (C:/Users/rafus/Documents/Progetti microelettronica digitale/SequenceRecogniser/Modelsim/SequenceRecognizer.mpf).  File can not be renamed.
+# End time: 11:42:42 on Jun 19,2021, Elapsed time: 0:08:16
+# Errors: 2, Warnings: 2
+# Compile of SequenceRecognizerFSM.vhd failed with 1 errors.
+# Compile of SequenceRecognizer_tb.vhd was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of SequenceRecognizerFSM.vhd was successful.
+# Compile of SequenceRecognizer_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.sequencerecognizer_tb
+# vsim work.sequencerecognizer_tb 
+# Start time: 11:46:11 on Jun 19,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading ieee.numeric_std(body)
+# Loading work.sequencerecognizer_tb(beh)
+# Loading work.sequencerecognizer(moore)
+add wave -position insertpoint  \
+sim:/sequencerecognizer_tb/num_in_ext \
+sim:/sequencerecognizer_tb/warning_ext \
+sim:/sequencerecognizer_tb/unlock_ext \
+sim:/sequencerecognizer_tb/first_ext \
+sim:/sequencerecognizer_tb/reset_ext \
+sim:/sequencerecognizer_tb/clk_ext
+run -all

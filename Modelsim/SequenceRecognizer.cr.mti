@@ -1,0 +1,13 @@
+{C:/Users/rafus/Documents/Progetti microelettronica digitale/SequenceRecogniser/Src/SequenceRecognizerFSM.vhd} {0 {vcom -work work -2008 -explicit -stats=none {C:/Users/rafus/Documents/Progetti microelettronica digitale/SequenceRecogniser/Src/SequenceRecognizerFSM.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity SequenceRecognizer
+-- Compiling architecture Moore of SequenceRecognizer
+** Error: C:/Users/rafus/Documents/Progetti microelettronica digitale/SequenceRecogniser/Src/SequenceRecognizerFSM.vhd(158): Signal "PRESENT_STATUS" is type STATUS; expecting type ieee.std_logic_1164.STD_LOGIC.
+** Note: C:/Users/rafus/Documents/Progetti microelettronica digitale/SequenceRecogniser/Src/SequenceRecognizerFSM.vhd(163): VHDL Compiler exiting
+
+} {10.0 11.0} {}}
